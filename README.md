@@ -39,3 +39,7 @@ Formates drives. AGAIN, YOUR FAULT FOR ANY DAMAGE!
 run any normal command inside the program.
 
 --------------------------------------------------------------------------------------------------------------------------------------
+
+Put whats in the brackets to use that command
+
+Feel free to edit and distribute, but reference the product back here!
