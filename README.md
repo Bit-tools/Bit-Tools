@@ -38,6 +38,8 @@ Formates drives. AGAIN, YOUR FAULT FOR ANY DAMAGE!
 11:Run command
 run any normal command inside the program.
 
+12: File options
+Hide, find and delete are avaliable.
 --------------------------------------------------------------------------------------------------------------------------------------
 
 Put whats in the brackets to use that command
