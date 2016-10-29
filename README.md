@@ -1,7 +1,7 @@
 # Bit-Tools
-Batch tools for any windows user. Comes in .EXE
+Batch tools for any windows user.
 
-Simplified Batch/EXE tool for simplified commands.
+Simplified Batch tool for simplified commands.
 
 Includes:
 
